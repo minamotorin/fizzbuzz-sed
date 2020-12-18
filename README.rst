@@ -24,7 +24,7 @@ Dependencies
 
 * sed
 
-This program works with both BSD sed, GNU sed, and POSIX sed.
+This program works with BSD sed, GNU sed, and POSIX sed.
 
 NOTE
 ****
@@ -34,6 +34,7 @@ This program works with BSD sed, but it is veeeeeeeeeery slow (daily). Recommend
 I don't understand why this issue occurs.
 
 If you use macOS with `Homebrew <https://brew.sh/>`_, you can install GNU sed as follows::
+
   $ brew install gsed
 
 Issue
