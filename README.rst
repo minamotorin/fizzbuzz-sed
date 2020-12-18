@@ -8,15 +8,15 @@ Usage
 
 ::
 
-  $ echo [number] | ./fizzbuzz
+  $ echo [number] | ./fizzbuzz.sed
 
 Or without execute permission::
 
-  $ echo [number] | /pass/to/sed -f ./fizzbuzz
+  $ echo [number] | /pass/to/sed -f ./fizzbuzz.sed
 
 If your computer doesn't have echo, you can also do the following::
 
-  $ ./fizzbuzz
+  $ ./fizzbuzz.sed
   [number]
 
 Dependencies
