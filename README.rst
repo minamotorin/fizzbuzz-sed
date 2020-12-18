@@ -26,7 +26,7 @@ Stand-alone version
 
   $ ./FizzBuzz_stand_alone
 
-* Don't change file name
+* Don't change the script file name
 * Run in the same directory as the file
 
 If you want to change the number of times, change the number of 4th line. Don't change other than numbers.
