@@ -29,7 +29,7 @@ Stand-alone version
 * Don't change file name
 * Run in the same directory as the file
 
-If you want to change the number of times, change the number of sixth line. Don't change other than numbers.
+If you want to change the number of times, change the number of 4th line. Don't change other than numbers.
 
 Dependencies
 ############
