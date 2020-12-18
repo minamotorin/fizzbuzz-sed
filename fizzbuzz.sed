@@ -1,7 +1,9 @@
 #!/usr/bin/env sed -f
 
+s/^0*//
+
 # error
-/[^0-9]/{
+/^[1-9][0-9]*$/!{
 c\
 Error: input must be positive integer\
 Usage: echo [number] | ./fizzbuzz.sed
@@ -10,7 +12,6 @@ q
 }
 
 # begin
-s/^0*//
 # n = 1
 s/$/\
 1/
