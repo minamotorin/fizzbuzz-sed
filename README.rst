@@ -49,6 +49,30 @@ If you use macOS with `Homebrew <https://brew.sh/>`_, you can install GNU sed as
 
   $ brew install gsed
 
+Reference
+#########
+
+I used as a reference
+************************
+
+`GNU sed online manual <https://www.gnu.org/software/sed/manual/sed.html>`_
+  Usage of sed
+  
+`Solving Arithmetic Golf Problem with Sed <https://docs.google.com/document/d/1utvJaMJw2vE6Id3TUu7O8-Grkz46hjYdasyLKXBAMD0/edit>`_
+  The idea of successor function
+
+`Hello world in every computer language <https://github.com/leachim6/hello-world/blob/master/s/sed.sed>`_
+  Stand-alone version
+
+Similar project
+***************
+
+`FizzBuzz solutions in any language you want! <https://github.com/NLDev/Hacktoberfest-2020-FizzBuzz/blob/master/Sed/FizzBuzzStandalone.sed>`_
+  Needs to be rewritten every time the value is changed
+
+`FizzBuzz in every programming language <https://github.com/zenware/FizzBuzz/blob/master/sed.sh>`_
+  Depends on shell
+
 Issue
 #####
 
