@@ -7,7 +7,6 @@ s/^0*//
 c\
 Error: input must be positive integer\
 Usage: echo [number] | ./fizzbuzz.sed
-# require for mac sed
 q
 }
 
@@ -23,9 +22,9 @@ s/\n[0-9]*$/&&/
 
 # FizzBuzz
 # if n % 3 == 0
-/^[0-9]*\(\n[0-9BFiuz]*\n[0-9BFiuz]*\n[0-9BFiuz]*\)*\n[0-9BFiuz]*$/s/[0-9]*\(\n[0-9]*\)$/Fizz\1/
+/^[0-9]*\(\(\n[0-9BFiuz]*\)\{3\}\)*\n[0-9BFiuz]*$/s/[0-9]*\(\n[0-9]*\)$/Fizz\1/
 # if n % 5 == 0
-/^[0-9]*\(\n[0-9BFiuz]*\n[0-9BFiuz]*\n[0-9BFiuz]*\n[0-9BFiuz]*\n[0-9BFiuz]*\)*\n[0-9BFiuz]*$/s/[0-9]*\([Fiz]*\)\(\n[0-9]*\)$/\1Buzz\2/
+/^[0-9]*\(\(\n[0-9BFiuz]*\)\{5\}\)*\n[0-9BFiuz]*$/s/[0-9]*\([Fiz]*\)\(\n[0-9]*\)$/\1Buzz\2/
 
 # end
 /^\(.*\)\(\n.*\)*\n\1$/{
