@@ -72,6 +72,12 @@ Similar project
 
 `FizzBuzz in every programming language <https://github.com/zenware/FizzBuzz/blob/master/sed.sh>`_
   Depends on shell
+  
+`sedbuzz <https://github.com/mikeantonacci/sedbuzz>`_
+  Depends on seq but good at check divisibility
+  
+`fizzbuzz.sed <https://github.com/tlvb/fizzbuzz.sed>`_
+  Very good
 
 Issue
 #####
