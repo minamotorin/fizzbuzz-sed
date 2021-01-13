@@ -38,7 +38,7 @@ Dependencies
 
 This program works with BSD sed, GNU sed, and POSIX sed.
 
-This program works with BSD sed too, and it work fine now. But I recommended to use GNU sed for extensions.
+This program works with BSD sed too, and it work fine now. But I recommend to use GNU sed for extensions.
 
 If you use macOS with `Homebrew <https://brew.sh/>`_, you can install GNU sed as follows::
 
