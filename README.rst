@@ -50,7 +50,7 @@ NOTE
 I think this program dose not work with sed too old version because of limit of pattren space. But I cannot check it because I don't have sed old version.
 
 TODO
-  Version control tool  sed
+  Version control tool for sed
 
 Reference
 #########
