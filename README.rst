@@ -44,6 +44,14 @@ If you use macOS with `Homebrew <https://brew.sh/>`_, you can install GNU sed as
 
   $ brew install gsed
 
+NOTE
+****
+
+I think this program dose not work with sed too old version because of limit of pattren space. But I cannot check it because I don't have sed old version.
+
+TODO
+  Version control tool  sed
+
 Reference
 #########
 
