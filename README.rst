@@ -38,12 +38,7 @@ Dependencies
 
 This program works with BSD sed, GNU sed, and POSIX sed.
 
-NOTE
-****
-
-This program works with BSD sed, but it is veeeeeeeeeery slow (daily). Recommended to use GNU sed.
-
-I don't understand why this issue occurs.
+This program works with BSD sed too, and it work fine now. But I recommended to use GNU sed for extensions.
 
 If you use macOS with `Homebrew <https://brew.sh/>`_, you can install GNU sed as follows::
 
