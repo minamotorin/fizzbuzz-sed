@@ -31,6 +31,17 @@ Stand-alone version
 
 If you want to change the number of times, change the number of 4th line. Don't change other than numbers.
 
+One-liner version
+*****************
+
+::
+
+  $ ./oneliner.sed
+  
+You cant run this program anywhere and you chan change the file name to any one.
+
+If you want to change the number of times, change ``100`` in the program (two places) to ``positive integer what you want``. This program does not check if your change is leagal or not.
+
 Dependencies
 ############
 
