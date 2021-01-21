@@ -63,9 +63,7 @@ One-liner version has a limit because of a shebang limit. Two-liner version will
 
 You can run this program anywhere and you can change the file name to any one.
 
-If you want to change the number of times, change ``100`` in 2nd line to ``positive integer does not start with 0 what you want``. If your input is illegal, this program will quit with print ``Error``. 
-
-I could not add the future print detailed error message because of a shebang limit.
+If you want to change the number of times, change ``100`` in 2nd line to ``positive integer does not start with 0 what you want``.
 
 Dependencies
 ############
