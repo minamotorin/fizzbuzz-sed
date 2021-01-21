@@ -49,6 +49,9 @@ The number of times of this program has limit because of a shebang limit. The ma
 
 I could not add the future which print detailed error message because of a shebang limit.
 
+TODO
+  Minimal one-linve version
+
 Two-liner version
 *****************
 
@@ -104,6 +107,8 @@ Run following commands::
   
 And run FizzBuzz program. Have fun!
 
+TODO
+  Test script
 
 Reference
 #########
