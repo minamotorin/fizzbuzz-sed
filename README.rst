@@ -40,7 +40,7 @@ One-liner version
   
 You can run this program anywhere and you can change the file name to any one.
 
-If you want to change the number of times, change ``100`` in the program (one place) to ``positive integer what you want``. This program does not check if your change is leagal or not.
+If you want to change the number of times, change ``100`` in the program (one place) to ``positive integer do not start with 0 what you want``. If your input is illegal, this program will quit silently (with print current pattern space: ``your input\n1``). I could not add the future print error message because of shebang limit.
 
 Dependencies
 ############
