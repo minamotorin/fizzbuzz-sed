@@ -93,7 +93,7 @@ Installation
 Dependencies
 ************
 
-* Git
+* `Git <https://git-scm.com/>`_
 
 Run following commands::
 
