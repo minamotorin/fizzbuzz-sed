@@ -86,6 +86,24 @@ This issue might be solved. See `issue #2 <https://github.com/minamotorin/FizzBu
 
 TODO
   Version control tool for sed
+  
+Installation
+############
+
+Dependencies
+************
+
+* Git
+
+Run following commands::
+
+
+  $ git clone https://github.com/minamotorin/FizzBuzz-sed.git
+  $ cd FizzBuzz-sed
+  $ chmod +x fizzbuzz.sed FizzBuzz_stand_alone oneliner.sed twoliner.sed
+  
+And run FizzBuzz program. Have fun!
+
 
 Reference
 #########
