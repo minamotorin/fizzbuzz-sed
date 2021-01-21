@@ -40,7 +40,7 @@ One-liner version
   
 You can run this program anywhere and you can change the file name to any one.
 
-If you want to change the number of times, change ``100`` in the program (one place) to ``positive integer do not start with 0 what you want``. If your input is illegal, this program will quit silently (with print current pattern space: ``your input\n1``).
+If you want to change the number of times, change ``100`` in the program (one place) to ``positive integer does not start with 0 what you want``. If your input is illegal, this program will quit silently (with print current pattern space: ``your input\n1``).
 
 A limit of shebang
 ******************
@@ -60,7 +60,7 @@ One-liner version has a limit because of a shebang limit. Two-liner version will
 
 You can run this program anywhere and you can change the file name to any one.
 
-If you want to change the number of times, change ``100`` in 2nd line to ``positive integer do not start with 0 what you want``. If your input is illegal, this program will quit silently (with print current pattern space: ``your input\n1``). 
+If you want to change the number of times, change ``100`` in 2nd line to ``positive integer does not start with 0 what you want``. If your input is illegal, this program will quit silently (with print current pattern space: ``your input\n1``). 
 
 I could not add the future print error message because of a shebang limit.
 
