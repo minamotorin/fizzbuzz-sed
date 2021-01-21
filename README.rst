@@ -50,7 +50,7 @@ The number of times of this program has limit because of a shebang limit. The ma
 I could not add the future which print detailed error message because of a shebang limit.
 
 TODO
-  Minimal one-linve version
+  Minimal one-liner version
 
 Two-liner version
 *****************
