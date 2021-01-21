@@ -45,7 +45,7 @@ If you want to change the number of times, change ``100`` in the program (one pl
 A limit of shebang
 ******************
 
-The number of times of this program has limit because of a shebang limit. The maximam number you can use is 999 (I check it with only a shell I use). 
+The number of times of this program has limit because of a shebang limit. The maximam number you can use is ``9999`` (I check it with only a shell I use). 
 
 I could not add the future which print detailed error message because of a shebang limit.
 
