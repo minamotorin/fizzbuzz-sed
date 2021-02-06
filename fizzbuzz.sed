@@ -1,5 +1,9 @@
 #!/usr/bin/env sed -f
 
+####################
+# TODO: Add header #
+####################
+
 s/^0*//
 
 # error
