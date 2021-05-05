@@ -146,5 +146,5 @@ If you have any requests, bug reports, please use GitHub issues.
 License
 #######
 
-This program is under the `Do What the Fuck You Want to Public License <http://www.wtfpl.net/txt/copying/>`_.
+This program is under the `Do What the Fuck You Want to Public License <http://www.wtfpl.net/txt/copying/>`_. Repository is `here <https://github.com/minamotorin/FizzBuzz-sed>`_.
 
