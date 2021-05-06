@@ -1,4 +1,4 @@
-#!/usr/bin/env sed -f ./FizzBuzz_stand_alone
+#!/usr/bin/env sed -f ./fizzbuzz_stand_alone
 
 # change this number:
 #☃️100
