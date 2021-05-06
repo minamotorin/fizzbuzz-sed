@@ -24,7 +24,7 @@ Stand-alone version
 
 ::
 
-  $ ./FizzBuzz_stand_alone
+  $ ./fizzbuzz_stand_alone
 
 * Don't change the script file name
 * Run in the same directory as the file
